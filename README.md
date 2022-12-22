@@ -8,4 +8,17 @@ using react third party  material-ui/core and react-moment
 
 using redux for data store and middelware thunk
 
+Pagination :
+Show Display 10 records per page
+Use client side pagination
+
+User  able to filter based on mentioned Fields :
+Log ID
+Action type
+Application type
+From Date
+Select date
+To Date
+Application ID
+
 publish url : reactTask-judge.surge.sh
