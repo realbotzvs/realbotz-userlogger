@@ -21,4 +21,4 @@ Select date
 To Date
 Application ID
 
-publish url : reactTask-judge.surge.sh
+publish url : applicationLogger.surge.sh
